@@ -1,0 +1,8 @@
+.vs/
+PudelkoApp/bin/
+PudelkoApp/obj/
+PudelkoLib/bin/
+PudelkoLib/obj/
+Pudelko-UnitTests/bin/
+Pudelko-UnitTests/obj/
+TestResults/
